@@ -35,7 +35,7 @@ The project uses the *Heart Failure Prediction Dataset* from Kaggle (https://www
 ## 5. Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/heart-failure-explainable-ai.git](https://github.com/your-username/heart-failure-explainable-ai.git)
+   git clone https://github.com/jesusjimenez04/heart-failure-prediction-ai.git
 
 2. Install dependencies:
     pip install -r requirements.txt
